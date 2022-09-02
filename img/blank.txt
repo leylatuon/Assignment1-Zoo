@@ -1,3 +1,0 @@
-I needed this to commit img dir to github
-
-Delete this after we have pics
