@@ -1,5 +1,96 @@
 body {
+  margin: 0;
   font-family: Gill Sans, sans-serif;
   background-color: #FEFAE0;
+}
+
+/* Rectangle 1 */
+.navbar {
+overflow: hidden;
+background: #CCD5AE;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo {
+width: 20%;
+height: 20%;
+float: left;
+margin: 1rem;
+}
+
+.welcome {
+  font-family: 'Gill Sans';
+  overflow: auto;
+  display: inline-block;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 15rem;
+  margin-right: 15rem;
+  color: #466223;
+}
+
+.menu {
+  float:right;
+  width: 3rem;
+  height: 3rem;
+  margin: 1rem;
+}
+
+h3 {
   text-align: center;
+}
+
+.all-zoos {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 3rem;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.desert {
+  color: #6A040F;
+  position: relative;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+.forest {
+  color: #CCD5AE;
+  position: relative;
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
+
+.ocean {
+  color: #003566;
+  position: relative;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+}
+
+.artic {
+  color: #2B2D42;
+  position: relative;
+  margin-top: 2rem;
+}
+
+.top-center {
+  left: 0;
+  position:absolute;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  top: 3rem;
+}
+
+.bottom-center {
+  left: 0;
+  position:absolute;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  bottom: 3rem;
 }
