@@ -52,3 +52,45 @@ h3 {
   font-size: 30px;
 }
 
+.desert {
+  color: #6A040F;
+  position: relative;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+.forest {
+  color: #CCD5AE;
+  position: relative;
+  margin-top: 2rem;
+  margin-right: 2rem;
+}
+
+.ocean {
+  color: #003566;
+  position: relative;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+}
+
+.artic {
+  color: #2B2D42;
+  position: relative;
+  margin-top: 2rem;
+}
+
+.top-center {
+  left: 0;
+  position:absolute;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  top: 3rem;
+}
+
+.bottom-center {
+  left: 0;
+  position:absolute;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  bottom: 3rem;
+}
