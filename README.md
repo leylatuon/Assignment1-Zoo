@@ -7,4 +7,4 @@
 - Samuel Fang: SamuelFang
 
 ### Progress
-Leyla remember to make the github page in settings <br/>  
+Link to deployed page: https://leylatuon.github.io/Assignment1-Zoo/ <br/>
