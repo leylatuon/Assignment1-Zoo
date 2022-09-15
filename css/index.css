@@ -6,37 +6,42 @@ body {
 
 /* Rectangle 1 */
 .navbar {
-overflow: hidden;
 background: #CCD5AE;
 box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
+.logo-link {
+  display: inline;
+  width: 20rem;
+  margin: 0;
+}
+
 .logo {
-width: 20%;
-height: 20%;
-float: left;
-margin: 1rem;
+  display:inline;
+  width: 20rem;
 }
 
 .welcome {
   font-family: 'Gill Sans';
   overflow: auto;
-  display: inline-block;
+  display: inline;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
   margin-top: 1rem;
   margin-bottom: 1rem;
-  margin-left: 15rem;
-  margin-right: 15rem;
+  margin-right:12rem;
   color: #466223;
 }
 
-.menu {
+.dropdown {
   float:right;
-  width: 3rem;
-  height: 3rem;
   margin: 1rem;
+}
+
+.menu {
+  width: 2rem;
+  height: 2rem;
 }
 
 h3 {
