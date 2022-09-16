@@ -4,17 +4,15 @@ body {
   text-align: center;
 }
 
-a {
+a{
   text-decoration: none;
-  color: blue;
-  background-color: lavender;
-  padding: 10px;  
+  color: black;
 }
 
 .link {
-  margin: 20px;
+  margin: 10px;
 }
 
-.back {
+.back { 
   margin: 40px;
 }
