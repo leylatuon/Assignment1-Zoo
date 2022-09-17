@@ -7,3 +7,26 @@
 .card {
     margin: 2rem;
 }
+
+.animal-img {
+    display:inline;
+    float: left;
+    margin: 2rem;
+    width: 40%;
+}
+
+.animal-title {
+    display:inline-block;
+    width: 50%;
+    margin: 2rem;
+
+}
+
+.animal-summary {
+    display:inline-block;
+    width: 50%;
+    margin-left: 2rem;
+    margin-right: 3rem;
+    margin-bottom: 1rem;
+    font-size: 20px;
+}
