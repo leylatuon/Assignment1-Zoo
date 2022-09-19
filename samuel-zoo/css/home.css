@@ -19,7 +19,7 @@ a {
   text-decoration: none;
 }
 
-.button1 {
+.deerbutton {
   line-height: 8px; 
   margin: .05in;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -40,7 +40,7 @@ a {
   background-position: center;
 }
 
-.button2 {
+.rabbitbutton {
   line-height: 8px; 
   margin: .05in;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -61,7 +61,7 @@ a {
   background-position: center;
 }
 
-.button3 {
+.parrotbutton {
   line-height: 8px; 
   margin: .05in;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
@@ -82,7 +82,7 @@ a {
   background-position: center;
 }
 
-.button4 {
+.pandabutton {
   line-height: 8px; 
   margin: .05in;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
