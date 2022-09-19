@@ -3,6 +3,13 @@ body {
   background-color: #fcf4d9;
   text-align: center;
   margin: 0;
+  font-size: 30px;
+}
+
+text {
+  display: block;
+  margin-right: 10%;
+  margin-left: 10%;
 }
 
 h1 {
