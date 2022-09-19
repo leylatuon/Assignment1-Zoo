@@ -6,6 +6,12 @@ body {
   font-size: 30px;
 }
 
+text {
+  display: block;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
 h1 {
   color: black;
   border: 10px solid rgb(231, 154, 38);
